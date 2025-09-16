@@ -37,7 +37,7 @@ Com o uso de ferramentas como **Excel**, **Power BI**, **Python** e **SQL**, apl
 🚀 Projetos
 
 
-*Em breve estarei adicionando meus projetos por aqui. Fique à vontade para me acompanhar!*
+*Em breve adicionarei meus projetos por aqui. Fique à vontade para me acompanhar!*
 
 ---
 
