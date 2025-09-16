@@ -34,7 +34,7 @@ Com o uso de ferramentas como **Excel**, **Power BI**, **Python** e **SQL**, apl
 ![Database](https://img.icons8.com/ios-filled/48/000000/database.png) |
 
 ---
-🚀 Projects
+🚀 Projetos
 
 
 *Em breve estarei adicionando meus projetos por aqui. Fique à vontade para me acompanhar!*
