@@ -32,7 +32,7 @@ Com o uso de ferramentas como **Excel**, **Power BI**, **Python** e **SQL**, apl
 📅 **Status:** Cursando
 
 ![Impacta](https://img.icons8.com/fluency/48/school.png) **ITB Antônio Arantes Filho**  
-💻 **Curso:** Técnico em Ciências Contabeis  
+💻 **Curso:** Técnico em Ciências Contábeis  
 📅 **Status:** Concluído
 
 
