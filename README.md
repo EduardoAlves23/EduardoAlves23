@@ -27,9 +27,14 @@ Com o uso de ferramentas como **Excel**, **Power BI**, **Python** e **SQL**, apl
 
 ## 🎓 Educação
 
-![Impacta](https://img.icons8.com/fluency/48/school.png) **Impacta Faculdade de Tecnologia**  
+![Impacta](https://img.icons8.com/fluency/48/school.png) **Faculdade Impacta de Tecnologia**  
 💻 **Curso:** Análise e Desenvolvimento de Sistemas  
 📅 **Status:** Cursando
+
+![Impacta](https://img.icons8.com/fluency/48/school.png) **ITB Antônio Arantes Filho**  
+💻 **Curso:** Técnico em Ciências Contabeis  
+📅 **Status:** Concluído
+
 
 ---
 
