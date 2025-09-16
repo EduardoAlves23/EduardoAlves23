@@ -25,6 +25,14 @@ Com o uso de ferramentas como **Excel**, **Power BI**, **Python** e **SQL**, apl
 
 ---
 
+## 🎓 Educação
+
+![Impacta](https://img.icons8.com/fluency/48/school.png) **Impacta Faculdade de Tecnologia**  
+💻 **Curso:** Análise e Desenvolvimento de Sistemas  
+📅 **Status:** Cursando
+
+---
+
 ## 🛠️ Técnicas e Ferramentas
 
 
